@@ -941,7 +941,7 @@
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
-		color: #3e1a4d;
+		color: #8b5bc8;
 		height: 100%;
 		left: 0;
 		padding: 8em 4em 0 0;
@@ -952,15 +952,15 @@
 	}
 
 		#header strong, #header b {
-			color: #3e1a4d;
+			color: #8b5bc8;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #3e1a4d;
+			color: #8b5bc8;
 		}
 
 		#header h1 {
-			color: #3e1a4d;
+			color: #8b5bc8;
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -987,15 +987,19 @@
 		}
 
 			#footer .icons a {
-				color: #3e1a4d;
+				color: #8b5bc8;
 			}
 
 		#footer .copyright {
-			color: #3e1a4d;
+			color: #8b5bc8;
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
 			padding: 0;
+		}
+
+		.shadow {
+		   text-shadow: 2px 2px 4px #101010;
 		}
 
 			#footer .copyright li {
