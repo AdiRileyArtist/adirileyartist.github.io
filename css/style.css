@@ -964,8 +964,6 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			background-color: rgba(20, 20, 20, 0.5);
-			border-radius: 5px;
 		}
 
 		#header .image.avatar {
@@ -985,6 +983,7 @@
 	}
 
 		#footer .icons {
+			padding-right: 10px;
 			margin: 1em 0 0 0;
 			background-color: rgba(20, 20, 20, 0.5);
 			border-radius: 5px;
@@ -1000,8 +999,6 @@
 			list-style: none;
 			margin: 1em 0 0 0;
 			padding: 0;
-			background-color: rgba(20, 20, 20, 0.5);
-			border-radius: 5px;
 		}
 
 		.shadow {
