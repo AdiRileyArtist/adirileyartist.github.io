@@ -935,7 +935,7 @@
 /* Header */
 
 	#header {
-		background-color: #ab7cd3; /* #1f1815; */
+		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
@@ -952,11 +952,11 @@
 	}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #ab7cd3;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #ab7cd3;
 		}
 
 		#header h1 {
