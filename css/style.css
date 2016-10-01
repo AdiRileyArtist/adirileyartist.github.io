@@ -7,6 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.shadow {
+	text-shadow: 2px 2px 4px #101010;
+}
+
 /* Basic */
 
 	body {
@@ -40,7 +44,6 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #49bf9d;
 		text-decoration: none;
 	}
@@ -999,10 +1002,6 @@
 			list-style: none;
 			margin: 1em 0 0 0;
 			padding: 0;
-		}
-
-		.shadow {
-		   text-shadow: 2px 2px 4px #101010;
 		}
 
 			#footer .copyright li {
