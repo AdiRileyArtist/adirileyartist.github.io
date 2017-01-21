@@ -4,76 +4,60 @@ layout: default
 
 
 <!-- Main -->
-<div id="main">
-    <section>
+<div id="main" style="margin-top: 15px; padding-top: 15px;">
+    <section style="position: absolute; right: 77px; margin-left: 77px;">
         <ul class="icons shadow">
-              {% if site.github_username %}
-              <li>
-                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
-                  <span class="label">GitHub</span>
-                </a>
-              </li>
-              {% endif %}
-
-              {% if site.twitter_username %}
-              <li>
-                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
-                  <span class="label">Twitter</span>
-                </a>
-              </li>
-              {% endif %}
-
-              {% if site.linkedin_username %}
-              <li>
-                <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
-                  <span class="label">LinkedIn</span>
-                </a>
-              </li>
-              {% endif %}
-
-              {% if site.google_plus_username %}
-              <li>
-                <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
-                  <span class="label">Google+</span>
-                </a>
-              </li>
-              {% endif %}
-
               {% if site.facebook_username %}
               <li>
-                <a href="https://www.facebook.com/{{ site.facebook_username }}" class="icon fa-facebook">
+                <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" class="icon fa-facebook fa-lg">
                   <span class="label">Facebook</span>
                 </a>
               </li>
               {% endif %}
 
-              {% if site.etsy_username %}
+              {% if site.tumblr_username %}
               <li>
-                <a href="https://www.etsy.com/shop/{{ site.etsy_username }}" class="icon fa-shopping-cart">
-                  <span class="label">Etsy</span>
+                <a href="https://{{ site.tumblr_username }}.tumblr.com" target="_blank" class="icon fa-tumblr fa-lg">
+                  <span class="label">Tumblr</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.pinterest_username %}
+              <li>
+                <a href="https://pinterest.com/{{ site.pinterest_username }}" target="_blank" class="icon fa-pinterest fa-lg">
+                  <span class="label">Pinterest</span>
                 </a>
               </li>
               {% endif %}
 
               {% if site.instagram_username %}
               <li>
-                <a href="https://www.instagram.com/{{ site.etsy_username }}" class="icon fa-instagram">
+                <a href="https://www.instagram.com/{{ site.etsy_username }}" target="_blank" class="icon fa-instagram fa-lg">
                   <span class="label">Instagram</span>
                 </a>
               </li>
               {% endif %}
 
-              {% if site.dribbble_username %}
+              {% if site.twitter_username %}
               <li>
-                <a href="#" class="icon fa-dribbble">
-                  <span class="label">Dribbble</span>
+                <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="icon fa-twitter fa-lg">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.etsy_username %}
+              <li>
+                <a href="https://www.etsy.com/shop/{{ site.etsy_username }}" target="_blank" class="icon fa-shopping-cart fa-lg">
+                  <span class="label">Etsy</span>
                 </a>
               </li>
               {% endif %}
 
               {% if site.email %}
               <li>
-                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o fa-lg">
                   <span class="label">Email</span>
                 </a>
               </li>
@@ -81,10 +65,53 @@ layout: default
             </ul>
     </section>
     <section>
+        <div class="row">
+            <article class="6u 12u(small)">
+                <header>
+                    <h1><a href="/portfolio.html" style="font-family: Pacifico;">Portfolio</a></h1>
+                </header>
+                <section>
+                    <a href="/portfolio.html"><img src="/images/custom/Portfolio.jpg" class="fit image"></a>
+                    <p style="text-align: center;">A collection of my past work, showcasing my different styles and techniques.</p>
+                </section>
+            </article>
+
+            <article class="6u 12u(small)">
+                <header>
+                    <h1><a href="/custom-illustrations.html" style="font-family: Pacifico;">Custom Illustrations</a></h1>
+                </header>
+                <section>
+                    <a href="/custom-illustrations.html"><img src="/images/custom/Custom.jpg" class="fit image"></a>
+                    <p style="text-align: center;">Want a personal touch to the art you hang on your wall or a unique special gift for someone?</p>
+                </section>
+            </article>
+
+            <article class="6u 12u(small)">
+                <header>
+                    <h1><a href="/current-projects.html" style="font-family: Pacifico;">Current Projects</a></h1>
+                </header>
+                <section>
+                    <a href="/current-projects.html"><img src="/images/custom/UnderConstruction.jpg" class="fit image"></a>
+                    <p style="text-align: center;">Keep up to date with my newest projects, books, illustrations and custom work.</p>
+                </section>
+            </article>
+
+            <article class="6u 12u(small)">
+                <header>
+                    <h1><a href="/ethos.html" style="font-family: Pacifico;">Ethos Behind the Art</a></h1>
+                </header>
+                <section>
+                    <a href="/ethos.html"><img src="/images/custom/Ethos.jpg" class="fit image"></a>
+                    <p style="text-align: center;">My personal thoughts about art and what drives me as an artist.</p>
+                </section>
+            </article>
+        </div>
+    </section>
+    <section>
         {% for post in site.posts limit:1 %}
             <header class="major">
-                <h2>{{ post.title }}</h2>
-                <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+                <h2 style="font-family: Pacifico;">{{ post.title }}</h2>
+                <p class="post-meta">{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
             </header>
 
             <section>
@@ -93,24 +120,6 @@ layout: default
         {% endfor %}
     </section>
     <section>
-        <div class="row">
-            {% for post in site.posts offset:1 %}
-
-                <article class="{% cycle '6u', '6u$' %} 12u(small)">
-                    <header>
-                        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    </header>
-                    <section>
-                        {{ post.excerpt }}
-                    </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ post.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
-                </article>
-
-            {% endfor %}
-        </div>
+        <center><h5 style="color: white;">created with <i class="fa fa-heart" style="color: #F42A2A;"></i> by <a href="https://neko250.github.io" target="_blank" style="color: #F42A2A;">neko250</a></h5></center>
     </section>
 </div>
