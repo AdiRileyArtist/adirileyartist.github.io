@@ -2,10 +2,5 @@
 layout: post
 title: Adi Riley Artist
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
-
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
-
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
-
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+<img src="/images/fulls/03.jpg" class="fit image"> I am an English artist based in the southern Spanish city of Malaga, I work predominantly as an illustrator creating very stylised black and white, highly detailed artwork, often with a humorous theme. The goal with my art is for people to be captured by their first glance then absorbed into the smaller details and funny twists hidden inside. I’m working on various projects including my own children’s books along with creating one of a kind original illustrations as well as custom artwork that I can tailor to clients’ interests.
+“Your Ideas, My Creativity and Ink”
