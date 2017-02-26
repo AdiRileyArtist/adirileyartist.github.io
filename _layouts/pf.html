@@ -1,0 +1,124 @@
+---
+layout: default
+---
+<div id="main" style="margin-top: 15px; padding-top: 15px;">
+    <section style="position: absolute; right: 77px; margin-left: 77px;">
+        <ul class="icons shadow">
+              {% if site.facebook_username %}
+              <li>
+                <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" class="icon fa-facebook fa-lg">
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.tumblr_username %}
+              <li>
+                <a href="https://{{ site.tumblr_username }}.tumblr.com" target="_blank" class="icon fa-tumblr fa-lg">
+                  <span class="label">Tumblr</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.pinterest_username %}
+              <li>
+                <a href="https://pinterest.com/{{ site.pinterest_username }}" target="_blank" class="icon fa-pinterest fa-lg">
+                  <span class="label">Pinterest</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.instagram_username %}
+              <li>
+                <a href="https://www.instagram.com/{{ site.etsy_username }}" target="_blank" class="icon fa-instagram fa-lg">
+                  <span class="label">Instagram</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="icon fa-twitter fa-lg">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.etsy_username %}
+              <li>
+                <a href="https://www.etsy.com/shop/{{ site.etsy_username }}" target="_blank" class="icon fa-shopping-cart fa-lg">
+                  <span class="label">Etsy</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.patreon_username %}
+              <li>
+                <a href="https://www.patreon.com/{{ site.patreon_username }}" target="_blank" class="icon fa-heart fa-lg">
+                  <span class="label">Patreon</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.email %}
+              <li>
+                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o fa-lg">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+    </section>
+    <section>
+    <article>
+        <header class="major">
+            <h1 class="post-title" style="font-family: Pacifico; font-size: 50px;">{{ page.title }}</h1>
+                <p class="post-meta">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        </header>
+
+        <section>
+            {{ content }}
+        </section>
+        
+        <footer>
+            <div class="row">
+            {% if page.previous %}
+
+                <!--article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
+                    <header>
+                        <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
+                    </header>
+                    <section>
+                        {{ page.previous.excerpt }}
+                    </section>
+                    <footer>
+                        <ul class="actions">
+                            <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
+                        </ul>
+                    </footer>
+                </article-->
+            {% endif %}
+            
+            {% if page.next %}
+            
+                <!--article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
+                    <header>
+                        <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
+                    </header>
+                    <section>
+                        {{ page.next.excerpt | markdownify }}
+                    </section>
+                    <footer>
+                        <ul class="actions">
+                            <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
+                        </ul>
+                    </footer>
+                </article-->
+            {% endif %}
+            </div>
+        </footer>
+
+    </article>
+    </section>
+
+</div>

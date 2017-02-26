@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <!-- Main -->
 <div id="main" style="margin-top: 15px; padding-top: 15px;">
     <section style="position: absolute; right: 77px; margin-left: 77px;">
@@ -55,6 +54,14 @@ layout: default
               </li>
               {% endif %}
 
+              {% if site.patreon_username %}
+              <li>
+                <a href="https://www.patreon.com/{{ site.patreon_username }}" target="_blank" class="icon fa-heart fa-lg">
+                  <span class="label">Patreon</span>
+                </a>
+              </li>
+              {% endif %}
+
               {% if site.email %}
               <li>
                 <a href="mailto:{{ site.email }}" class="icon fa-envelope-o fa-lg">
@@ -63,6 +70,21 @@ layout: default
               </li>
               {% endif %}
             </ul>
+    </section>
+    <section>
+        <header class="major">
+            <div class="row">
+              <div class="2u 12u(small)">
+                <img src="/images/avatar.jpg" alt="" style="width: 10em; border-radius: 200px;" />
+              </div>
+              <div class="10u 12u(small)">
+                <center>
+                  <h1 style="font-family: Pacifico; font-size: 4em; padding-bottom: 5px; margin-bottom: 5px;">Adi Riley Artist</h1>
+                  <p style="font-family: Oswald; font-size: 1.5em; color: #F42A2A; margin-top: 5px; padding-top: 5px;">Professional Illustrator</p>
+                </center>
+              </div>
+            </div>
+        </header>
     </section>
     <section>
         <div class="row">
@@ -105,10 +127,36 @@ layout: default
                     <p style="text-align: center;">My personal thoughts about art and what drives me as an artist.</p>
                 </section>
             </article>
+
+            <article class="3u 12u(small)">
+                <header>
+                <h1>&nbsp;</h1>
+                </header>
+                <section>
+                    <p>&nbsp;</p>
+                </section>
+            </article>
+
+            <article class="6u 12u(small)">
+                <header>
+                    <h1><a href="https://www.patreon.com/adirileyartist" target="_blank" style="font-family: Pacifico;">How you can support me</a></h1>
+                </header>
+                <section>
+                    <a href="https://www.patreon.com/adirileyartist" target="_blank"><img src="/images/custom/PatreonTab.jpg" class="fit image"></a>
+                    <p style="text-align: center;">Be involved in creating my children's book and receive rewards at the same time.</p>
+                </section>
+            </article>
+
+            <article class="3u 12u(small)">
+                <header>
+                </header>
+                <section>
+                </section>
+            </article>
         </div>
     </section>
-    <section>
-        {% for post in site.posts limit:1 %}
+    <!--section>
+        { -- % for post in site.posts limit:1 % -- }
             <header class="major">
                 <h2 style="font-family: Pacifico;">{{ post.title }}</h2>
                 <p class="post-meta">{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
@@ -117,7 +165,20 @@ layout: default
             <section>
                 {{ post.content }}
             </section>
-        {% endfor %}
+        { -- % endfor % -- }
+    </section-->
+    <section>
+        <header class="major" style="margin-bottom: 20px;">
+            <div class="image avatar">
+                <img src="/images/avatar.jpg" alt="avatar" style="width: 6em; float: left;" />
+            </div>
+        </header>
+
+        <section>
+            <p>
+              I am an English artist based in the southern Spanish city of Malaga, I work predominantly as an illustrator creating very stylised black and white, highly detailed artwork, often with a humorous theme. The goal with my art is for people to be captured by their first glance then absorbed into the smaller details and funny twists hidden inside. I’m working on various projects including my own children’s books along with creating one of a kind original illustrations as well as custom artwork that I can tailor to clients’ interests.
+            </p>
+        </section>
     </section>
     <section>
         <center><h5 style="color: white;">created with <i class="fa fa-heart" style="color: #F42A2A;"></i> by <a href="https://neko250.github.io" target="_blank" style="color: #F42A2A;">neko250</a></h5></center>
