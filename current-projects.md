@@ -2,10 +2,18 @@
 layout: post
 title: Current Projects
 ---
-<img src="/images/custom/UnderConstruction.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+<img src="/images/custom/UnderConstruction.jpg" class="fit image">
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+<section>
+	<img src="/images/avatar.jpg" alt="avatar" style="width: 6em; margin-bottom: 20px; border-radius: 200px;" />
+	<blockquote>
+		<p>Keep up to date with my newest projects, books, illustrations, and custom work.</p>
+	</blockquote>
+</section>
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+<h1 style="font-family: Pacifico;">Project: Fantasy Detective Puzzle Book</h1>
+
+<img src="/images/OUaCLogo.jpg" class="fit image">
+
+The story revolves around a city guard who is not the most observant, his job is to help the citizens of the city and solve crimes. Each double page will have a story page with text and an illustration incorporated within it. On the opposite side a highly-detailed illustration in which clues and puzzles will be hidden, your job will be to help the guard to find the hidden items and solve the puzzles to enable him to continue to the next page and eventually solve the crime.

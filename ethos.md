@@ -16,5 +16,3 @@ title: Ethos Behind the Art
 
 	<p>The agenda with each of my creations is to capture the viewer with a glance, then pull them deeper into the picture with the many intricacies and maybe even make them smile while they do so. An artist whether illustrator, painter or even architect is essentially an illusionist, making the viewer believe that a few simple lines on a flat piece of paper or brush strokes on a canvas is something more tangible. I want my art to contain certain ingredients, in a similar way that other media such as books, films and games do for me, I want to be transported to another place, a slice of fantasy, somewhere I’d like to be, but still engaging enough to draw you further inside.</p>
 </section>
-
-<hr>
