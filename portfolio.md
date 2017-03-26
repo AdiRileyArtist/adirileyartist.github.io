@@ -184,4 +184,28 @@ title: Portfolio
             </section>
         </article>
     </div>
+
+    <!-- NEW ARTICLE TEMPLATE
+    <article class="3u 12u(small)">
+        <header>
+            <h4 style="color: #F42A2A; font-family: Oswald;">TITLE</h4>
+        </header>
+        <section>
+            <a href="/pf/ITEM_TITLE.html"><img src="/IMAGE/PATH/FILE.JPG" class="fit image"></a>
+        </section>
+    </article>
+    -->
+
+    <!-- NEW ROW TEMPLATE
+    <div class="row">
+        <article class="3u 12u(small)">
+            <header>
+                <h4 style="color: #F42A2A; font-family: Oswald;">TITLE</h4>
+            </header>
+            <section>
+                <a href="/pf/ITEM_TITLE.html"><img src="/IMAGE/PATH/FILE.JPG" class="fit image"></a>
+            </section>
+        </article>
+    </div>
+    -->
 </section>
