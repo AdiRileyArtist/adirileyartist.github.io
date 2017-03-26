@@ -5,7 +5,7 @@ title: Custom Illustrations
 
 <img src="/images/custom/Custom.jpg" class="fit image">
 
-<center><p style="font-size: 20px;">If you like my style of illustration, why not commission a personal one-off custom piece of original artwork! I can incorporate people’s hobbies, interests, or ideas.</p>
+<center><p>If you like my style of illustration, why not commission a personal one-off custom piece of original artwork! I can incorporate people’s hobbies, interests, or ideas.</p>
 
 <h1 style="font-family: Pacifico;">"Your Ideas, My Creativity and Ink"</h1></center>
 
