@@ -9,6 +9,8 @@ title: Custom Illustrations
 
 <h1 style="font-family: Pacifico;">"Your Ideas, My Creativity and Ink"</h1></center>
 
+<hr>
+
 <h2 style="font-family: Pacifico;">Past Custom Illustrations</h2>
 
 <div class="row">
