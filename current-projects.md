@@ -36,6 +36,13 @@ The story revolves around a city guard who is not the most observant, his job is
 <p>"I think I've done too much head-banging, now I have a cracking headache!!" Rock</p>
 </blockquote>
 
+<center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
+
+<center><img src="/images/CharacterDesigns/RottonFishRalph.jpg" class="image" width="500px"></center>
+
+<center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
+
+<center><img src="/images/CharacterDesigns/ProfessorCrumples.jpg" class="image" width="500px"></center>
 <!-- PROJECT END -->
 
 More to come...
