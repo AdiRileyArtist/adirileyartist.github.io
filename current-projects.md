@@ -21,9 +21,9 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h1 style="font-family: Pacifico;">Character Design Ideas</h1>
 
-<center><img src="/images/Charaterdesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
+<img src="/images/CharacterDesigns/PrivateWadsworhMurphy.jpg" class="fit image">
 
-<center><img src="/images/Charaterdesigns/RockandTroll.jpg" class="image" width="500px"></center>
+<center><img src="/images/CharaterDesigns/RockandTroll.jpg" class="image" width="500px"></center>
 
 <!-- PROJECT END -->
 
