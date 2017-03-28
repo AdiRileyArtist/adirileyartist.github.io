@@ -62,7 +62,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
 
-<p>A possible friend for Wadsworth and also another member of the City Guard</p>
+<p>A possible friend for Wadsworth and also another member of the City Guard.</p>
 
 <!-- PROJECT END -->
 
