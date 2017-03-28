@@ -38,7 +38,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
 
-<center><img src="/images/CharacterDesigns/RottonFishRalph.jpg" class="image" width="500px"></center>
+<center><img src="/images/CharacterDesigns/RottonFishRalphl.jpg" class="image" width="500px"></center>
 
 <center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
 
