@@ -21,7 +21,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h1 style="font-family: Pacifico;">Character Design Ideas</h1>
 
-<img src="/images/custom/Ethos.jpg" class="fit image">
+<img src="/images/Characters/CityGuard.jpg" class="fit image">
 
 <!-- PROJECT END -->
 
