@@ -33,19 +33,19 @@ The story revolves around a city guard who is not the most observant, his job is
 <p>Rock and Troll are a band that plays in one of the taverns in the city.</p>
 
 <blockquote>
-<p>"I think I've done too much head-banging, now I have a cracking headache!!" Rock</p>
+<p>"I think I've done too much head-banging, now I have a cracking headache!!"</p>
 </blockquote>
 
 <center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
 
-<p>A friend of Wadsworth's and also another member of the City Guard</p>
+<p>A possible friend for Wadsworth and also another member of the City Guard</p>
 
 <center><img src="/images/CharacterDesigns/RottonFishRalphl.jpg" class="image" width="500px"></center>
 
-<p>Idea for the fish person pirate captain, was thinking of possibly doing a parrot fish instead of a bird.</p>
+<p>Idea for the fishperson pirate captain, was thinking of possibly doing a parrot fish instead of a bird.</p>
 
 <blockquote>
- <p>"I hate these damn landlubbers!" Captain "Rotton Fish" Ralph</p>
+ <p>"I hate these damn landlubbers!"</p>
 </blockquote>
 
 <center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
@@ -53,12 +53,12 @@ The story revolves around a city guard who is not the most observant, his job is
 <p>Might change the fish inside Bubblehead's goldfish bowl to a puffer fish, so each time the fish get scared they inflate themselves and push his face against the side of the bowl, sticking him with dozens of spikes.</p>
 
 <blockquote>
-<p>"GGGGuuuGGgggUUULLL!?!?!" First Mate Bubblehead</p>
+<p>"GGGGuuuGGgggUUULLL!?!?!"</p>
 </blockquote>
 
 <center><img src="/images/CharacterDesigns/ProfessorCrumples.jpg" class="image" width="500px"></center>
 
-<p>This character is a crazy scientist who has managed to lock himself in his own cage while testing it from the inside.</p> 
+<p>This character is a crazy scientist who has managed to lock himself in his own cage while testing it from the inside.</p>
 
 <blockquote>
 <p>"Hey dont judge me, can't a genius Professor have a bad day too?"</p>
