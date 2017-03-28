@@ -36,10 +36,6 @@ The story revolves around a city guard who is not the most observant, his job is
 <p>"I think I've done too much head-banging, now I have a cracking headache!!"</p>
 </blockquote>
 
-<center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
-
-<p>A possible friend for Wadsworth and also another member of the City Guard</p>
-
 <center><img src="/images/CharacterDesigns/RottonFishRalphl.jpg" class="image" width="500px"></center>
 
 <p>Idea for the fishperson pirate captain, was thinking of possibly doing a parrot fish instead of a bird.</p>
@@ -63,6 +59,10 @@ The story revolves around a city guard who is not the most observant, his job is
 <blockquote>
 <p>"Hey dont judge me, can't a genius Professor have a bad day too?"</p>
 </blockquote>
+
+<center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
+
+<p>A possible friend for Wadsworth and also another member of the City Guard</p>
 
 <!-- PROJECT END -->
 
