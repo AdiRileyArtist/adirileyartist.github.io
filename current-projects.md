@@ -12,6 +12,8 @@ title: Current Projects
 	</blockquote>
 </section>
 
+<hr>
+
 <!-- PROJECT START -->
 <h1 style="font-family: Pacifico;">Project: Fantasy Detective Puzzle Book</h1>
 
