@@ -31,6 +31,12 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/RockandTroll.jpg" class="image" width="500px"></center>
 
+<blockquote>
+<p>Rock and Troll are a band that plays in one of the taverns in the city.
+
+"I've done too much head-banging I think, now I have a cracking headache!!" Rock</p>
+</blockquote>
+
 <!-- PROJECT END -->
 
 More to come...
