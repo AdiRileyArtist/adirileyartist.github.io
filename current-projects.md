@@ -21,7 +21,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h1 style="font-family: Pacifico;">Character Design Ideas</h1>
 
-<center><img src="/images/characterDesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
+<center><img src="/images/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
 
 <!-- PROJECT END -->
 
