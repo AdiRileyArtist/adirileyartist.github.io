@@ -25,7 +25,9 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
 
-Private Wadsworth is the story's protagonist along with his faithful sidekick Murphy, each page will be seen through his eyes. Each time you encounter someone in the story their portrait will appear on the page to give you a feel for who you are talking to.
+<blockquote>
+<p>Private Wadsworth is the story's protagonist along with his faithful sidekick Murphy, each page will be seen through his eyes. Each time you encounter someone in the story their portrait will appear on the page to give you a feel for who you are talking to.</p>
+</blockquote>
 
 <center><img src="/images/CharacterDesigns/RockandTroll.jpg" class="image" width="500px"></center>
 
