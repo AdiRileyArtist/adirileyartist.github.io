@@ -38,11 +38,32 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
 
+<p>A friend of Wadsworth's and also another member of the City Guard</p>
+
 <center><img src="/images/CharacterDesigns/RottonFishRalphl.jpg" class="image" width="500px"></center>
+
+<p>Idea for the fish person pirate captain, was thinking of possibly doing a parrot fish instead of a bird.</p>
+
+<blockquote>
+ <p>"I hate these damn landlubbers!" Captain "Rotton Fish" Ralph</p>
+</blockquote>
 
 <center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
 
+<p>Might change the fish inside Bubblehead's goldfish bowl to a puffer fish, so each time the fish get scared they inflate themselves and push his face against the side of the bowl, sticking him with dozens of spikes.</p>
+
+<blockquote>
+<p>"GGGGuuuGGgggUUULLL!?!?!" First Mate Bubblehead</p>
+</blockquote>
+
 <center><img src="/images/CharacterDesigns/ProfessorCrumples.jpg" class="image" width="500px"></center>
+
+<p>This character is a crazy scientist who has managed to lock himself in his own cage while testing it from the inside.</p> 
+
+<blockquote>
+<p>"Hey dont judge me, can't a genius Professor have a bad day too?"</p>
+</blockquote>
+
 <!-- PROJECT END -->
 
 More to come...
