@@ -23,12 +23,19 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h2 style="font-family: Pacifico;">Character Design Ideas</h2>
 
+<center><img src="/images/CharacterDesigns/BrainsWolfgang.jpg" class="image" width="500px"></center>
+
+<p>These two zombies are undertakers, I like the idea that the undead are burying the dead. I named Wolfgang after Mozart because his teeth are like piano keys, but the real dangerous one here is Baron Warburton Wyrm who is the underworld criminal boss that lives up Brains's nose.</p>
+
+<blockquote>
+<p>"He might be called Brains, but I'm the brains of this outfit!"</p>
+</blockquote>
+
 <center><img src="/images/CharacterDesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
 
 <p>Private Wadsworth is the story's protagonist along with his faithful sidekick Murphy, each page will be seen through his eyes. Each time you encounter someone in the story their portrait will appear on the page to give you a feel for who you are talking to.</p>
 
 <center><img src="/images/CharacterDesigns/RockandTroll.jpg" class="image" width="500px"></center>
-
 
 <p>Rock and Troll are a band that plays in one of the taverns in the city.</p>
 
@@ -46,7 +53,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
 
-<p>Might change the fish inside Bubblehead's goldfish bowl to a puffer fish, so each time the fish get scared they inflate themselves and push his face against the side of the bowl, sticking him with dozens of spikes.</p>
+<p>I Might change the fish inside Bubblehead's goldfish bowl to a puffer fish, so each time the fish get scared they inflate themselves and push his face against the side of the bowl, sticking him with dozens of spikes.</p>
 
 <blockquote>
 <p>"GGGGuuuGGgggUUULLL!?!?!"</p>
@@ -63,6 +70,8 @@ The story revolves around a city guard who is not the most observant, his job is
 <center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
 
 <p>A possible friend for Wadsworth and also another member of the City Guard.</p>
+
+
 
 <!-- PROJECT END -->
 
