@@ -31,6 +31,10 @@ The story revolves around a city guard who is not the most observant, his job is
 <p>"He might be called Brains, but I'm the brains of this outfit!"</p>
 </blockquote>
 
+<center><img src="/images/CharacterDesigns/MrStoker.jpg" class="image" width="500px"></center>
+
+<p>Mr Stoker named after Bram Stoker is the cities finest butcher and owner of Stoker's Steaks, in the final illustration I'll include his shop's sign, a heart with a wooden stake.</p>
+
 <center><img src="/images/CharacterDesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
 
 <p>Private Wadsworth is the story's protagonist along with his faithful sidekick Murphy, each page will be seen through his eyes. Each time you encounter someone in the story their portrait will appear on the page to give you a feel for who you are talking to.</p>
