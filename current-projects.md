@@ -23,6 +23,14 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h2 style="font-family: Pacifico;">Character Design Ideas</h2>
 
+<center><img src="/images/CharacterDesigns/RockandTrollColour2.jpg" class="image" width="500px"></center>
+
+<p>A colourised version of Rock and Troll, experimenting with different styles.</p>
+
+<blockquote>
+<p>"Roock annnd Trooooll Maaaan!!!"</p>
+</blockquote>
+
 <center><img src="/images/CharacterDesigns/BrainsWolfgang.jpg" class="image" width="500px"></center>
 
 <p>These two zombies are undertakers, I like the idea that the undead are burying the dead. I named Wolfgang after Mozart because his teeth are like piano keys, but the real dangerous one here is Baron Warburton Wyrm who is the underworld criminal boss that lives up Brains's nose.</p>
