@@ -23,6 +23,10 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <h2 style="font-family: Pacifico; font-size: 20px;">Character Design Ideas</h2>
 
+<center><img src="/images/CharacterDesigns/MrStokerColour.jpg" class="image" width="500px"></center>
+
+<p>A colourised version of Mr Bramble Stoker the city's butcher and owner of Stoker's Steaks.</p>
+
 <center><img src="/images/CharacterDesigns/RockandTrollColour2.jpg" class="image" width="500px"></center>
 
 <p>A colourised version of Rock and Troll, experimenting with different styles.</p>
@@ -41,7 +45,7 @@ The story revolves around a city guard who is not the most observant, his job is
 
 <center><img src="/images/CharacterDesigns/MrStoker.jpg" class="image" width="500px"></center>
 
-<p>Mr Stoker named after Bram Stoker is the cities finest butcher and owner of Stoker's Steaks, in the final illustration I'll include his shop's sign, a heart with a wooden stake.</p>
+<p>Mr Stoker named after Bram Stoker, in the final illustration I'll include his shop's sign, a heart with a wooden stake.</p>
 
 <center><img src="/images/CharacterDesigns/SirJohnCoyote.jpg" class="image" width="500px"></center>
 
