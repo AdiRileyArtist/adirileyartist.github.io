@@ -135,7 +135,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="/current/ITEM_TITLE.html"><img src="/images/current/CityGuardInk800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;">DESCRIPTION</p>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -144,7 +144,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="/current/ITEM_TITLE.html"><img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;">DESCRIPTION</p>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
       </section>
     </article>
 
