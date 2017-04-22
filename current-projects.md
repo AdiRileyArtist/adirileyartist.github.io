@@ -40,7 +40,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="#"><img src="/images/current/MrStokerInk800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;"></p>
+        <p style="text-align: center;">Preliminary sketch</p>
       </section>
     </article>
     <article class="6u 12u(small)">
