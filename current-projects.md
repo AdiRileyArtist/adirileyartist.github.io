@@ -37,7 +37,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Colour)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
@@ -47,10 +47,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Rock and Troll</a></h4>
       </header>
       <section>
-        <a href="#"><img src="/images/current/template-800x800.jpg" class="fit image"></a>
+        <a href="#"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
         <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore.</p>
       </section>
