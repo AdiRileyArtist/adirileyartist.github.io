@@ -86,7 +86,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Captain of the City Guard</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Captain of the City Guard (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/CaptainCityGuardInk800x800.jpg" class="fit image"></a>
@@ -95,7 +95,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Sir John Coyote</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Sir John Coyote (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/SirJohnCoyoteInk800x800.jpg" class="fit image"></a>
@@ -104,7 +104,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">The King</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">The King (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/TheKingInk800x800.jpg" class="fit image"></a>
@@ -113,7 +113,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Rotton Fish Ralph</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Rotton Fish Ralph (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/RottonFishRalphInk800x800.jpg" class="fit image"></a>
@@ -122,7 +122,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">First Mate Bubblehead</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">First Mate Bubblehead (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/FirstMateBubbleheadInk800x800.jpg" class="fit image"></a>
@@ -131,7 +131,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">City Guard</a></h4>
+        <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">City Guard (Ink)</a></h4>
       </header>
       <section>
         <a href="/current/ITEM_TITLE.html"><img src="/images/current/CityGuardInk800x800.jpg" class="fit image"></a>
@@ -140,7 +140,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">Zookeeper Livingstone</a></h4>
+        <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">Zookeeper Livingstone (Ink)</a></h4>
       </header>
       <section>
         <a href="/current/ITEM_TITLE.html"><img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image"></a>
