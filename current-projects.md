@@ -31,7 +31,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="/current/mr-bramble-stoker.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
-        <p style="text-align: center;">Mr Bramble Stoker, the city's butcher and owner of "Stoker's Steaks"</p>
+        <p style="text-align: center;">Mr Bramble Stoker is the city's butcher and owner of "Stoker's Steaks"</p>
       </section>
     </article>
     <article class="6u 12u(small)">
