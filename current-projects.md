@@ -57,7 +57,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Ink and Pencil)</a></h4>
+        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Ink + Pencil)</a></h4>
       </header>
       <section>
         <a href="#"><img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image"></a>
