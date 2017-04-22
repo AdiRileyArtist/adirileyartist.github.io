@@ -31,8 +31,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="/current/mr-bramble-stoker.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
-        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore.</p>
+        <p style="text-align: center;">Mr Bramble Stoker, the city's butcher and owner of "Stoker's Steaks"</p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -41,8 +40,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="#"><img src="/images/current/MrStokerInk800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore.</p>
+        <p style="text-align: center;"></p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -144,7 +142,7 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <a href="/current/ITEM_TITLE.html"><img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p style="text-align: center;"> Livingstone will appear as a character for one of the puzzle pages needing help to find his escaped animals.</p>
       </section>
     </article>
 
