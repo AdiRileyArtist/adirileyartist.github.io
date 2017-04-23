@@ -63,10 +63,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Rock and Troll (Colour)</a></h4>
+        <h4><a href="/current/rock-troll-fullwidth.html" style="font-family: Oswald;">Rock and Troll (Colour)</a></h4>
       </header>
       <section>
-        <a href="#"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
+        <a href="/current/rock-troll-fullwidth.html"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
