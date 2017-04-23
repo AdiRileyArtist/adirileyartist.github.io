@@ -27,7 +27,7 @@ The story revolves around a city guard who is not the most observant, his job is
   <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/images/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr. Bramble Stoker (Colour)</a></h4>
+        <h4><a href="/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr. Bramble Stoker (Colour)</a></h4>
       </header>
       <section>
         <a href="/current/mr-bramble-stoker-fullwidth.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
