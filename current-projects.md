@@ -27,10 +27,10 @@ The story revolves around a city guard who is not the most observant, his job is
   <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/mr-bramble-stoker.html" style="font-family: Oswald;">Mr. Bramble Stoker (Colour)</a></h4>
+        <h4><a href="/images/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr. Bramble Stoker (Colour)</a></h4>
       </header>
       <section>
-        <a href="/current/mr-bramble-stoker.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
+        <a href="/current/mr-bramble-stoker-fullwidth.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
@@ -45,10 +45,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="#" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Colour)</a></h4>
+        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Colour)</a></h4>
       </header>
       <section>
-        <a href="#"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
+        <a href="/current/brains-wolfgang-fullwidth.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
