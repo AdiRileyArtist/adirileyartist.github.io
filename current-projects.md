@@ -71,9 +71,9 @@ The story revolves around a city guard who is not the most observant, his job is
       </section>
     </article>
     <article class="6u 12u(small)">
-      <header>
-        <h4 style="font-family: Oswald;">Rock and Troll (Ink + Pencil)</h4>
-      </header>
+    <header>
+      <h4 style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Ink + Pencil)</h4>
+    </header>
       <section>
         <<img src="/images/current/RockandTrollInk800x800.jpg" class="fit image">
         <p style="text-align: center;"></p>
