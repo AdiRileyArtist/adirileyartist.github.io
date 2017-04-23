@@ -36,13 +36,15 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4 style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Ink + Pencil)</h4>
+        <h4 style="font-family: Oswald;">Mr Bramble Stoker (Ink + Pencil)</h4>
       </header>
       <section>
-        <img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image">
+        <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
         <p style="text-align: center;"></p>
       </section>
     </article>
+    <article class="6u 12u(small)">
+      <header>
         <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Colour)</a></h4>
       </header>
       <section>
@@ -158,13 +160,3 @@ The story revolves around a city guard who is not the most observant, his job is
 <!-- PROJECT END -->
 
 More to come...
-
-<article class="6u 12u(small)">
-  <header>
-    <h4 style="font-family: Oswald;">Mr Bramble Stoker (Ink + Pencil)</h4>
-  </header>
-  <section>
-    <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
-    <p style="text-align: center;"></p>
-  </section>
-</article>
