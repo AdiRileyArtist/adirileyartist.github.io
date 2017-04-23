@@ -21,13 +21,13 @@ title: Current Projects
 
 The story revolves around a city guard who is not the most observant, his job is to help the citizens of the city and solve crimes. Each double page will have a story page with text and an illustration incorporated within it. On the opposite side a highly-detailed illustration in which clues and puzzles will be hidden, your job will be to help the city guard find the hidden items and solve the puzzles to enable him to continue to the next page and eventually solve the crime.
 
-<h2 style="font-family: Pacifico; font-size: 30px;">Character Design Ideas</h2>
+<h2 style="font-family: Pacifico; font-size: 30px;">Stage 1 - Character Concept Designs</h2>
 
 <section>
   <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr. Bramble Stoker (Colour)</a></h4>
+        <h4><a href="/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr Bramble Stoker (Colour)</a></h4>
       </header>
       <section>
         <a href="/current/mr-bramble-stoker-fullwidth.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
@@ -36,10 +36,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/mr-bramble-stoker-bw-fullwidth.html" style="font-family: Oswald;">Mr. Bramble Stoker (Ink + Pencil)</a></h4>
+        <h4><a href="/current/mr-bramble-stoker-bw-fullwidth.html" style="font-family: Oswald;">Mr Bramble Stoker (Ink + Pencil)</a></h4>
       </header>
       <section>
-        <a href="/current/mr-bramble-stoker-bw-fullwidth.html"><img src="/images/current/MrStokerInk800x800.jpg" class="fit image"></a>
+        <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
         <p style="text-align: center;"></p>
       </section>
     </article>
