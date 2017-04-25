@@ -45,19 +45,19 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers (Colour)</a></h4>
+        <h4><a href="/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr Bramble Stoker (Colour)</a></h4>
       </header>
       <section>
-        <a href="/current/brains-wolfgang-fullwidth.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
+        <a href="/current/mr-bramble-stoker-fullwidth.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4 style="font-family: Oswald;">The Undertakers (Ink + Pencil)</h4>
+        <h4 style="font-family: Oswald;">Mr Bramble Stoker (Ink + Pencil)</h4>
       </header>
       <section>
-        <img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image">
+        <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
         <p style="text-align: center;"></p>
       </section>
     </article>
