@@ -48,7 +48,7 @@ The story revolves around a city guard who is not the most observant, his job is
         <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers</a></h4>
       </header>
       <section>
-        <a href="/current/brains-wolfgang-fullwidth"><img src="/images/current/BrainsWolfgang800x800X800.jpg" class="fit image"></a>
+        <a href="/current/brains-wolfgang-fullwidth"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
