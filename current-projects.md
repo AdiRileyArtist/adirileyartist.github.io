@@ -45,7 +45,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Colour)</a></h4>
+        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers (Colour)</a></h4>
       </header>
       <section>
         <a href="/current/brains-wolfgang-fullwidth.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
@@ -54,7 +54,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4 style="font-family: Oswald;">Brains, Wolfgang and Warburton Wyrm (Ink + Pencil</h4>
+        <h4 style="font-family: Oswald;">The Undertakers (Ink + Pencil)</h4>
       </header>
       <section>
         <img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image">
