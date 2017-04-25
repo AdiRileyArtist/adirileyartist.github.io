@@ -45,10 +45,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/Brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers (Colour)</a></h4>
+        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers</a></h4>
       </header>
       <section>
-        <a href="/current/Brains-wolfgang-fullwidth.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image">
+        <a href="/current/brains-wolfgang-fullwidth"><img src="/images/current/BrainsWolfgang800x800X800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
