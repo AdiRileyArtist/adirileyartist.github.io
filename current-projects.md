@@ -45,10 +45,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers (Colour)</a></h4>
+        <h4 style="font-family: Oswald;">The Undertakers</a></h4>
       </header>
       <section>
-        <a href="/current/brains-wolfgang-fullwidth.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
+        <img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
         <p style="text-align: center;"></p>
       </section>
     </article>
@@ -133,7 +133,16 @@ The story revolves around a city guard who is not the most observant, his job is
         <p style="text-align: center;"></p>
       </section>
     </article>
-    
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Zookeeper Livingstone (Ink)</h4>
+      </header>
+      <section>
+        <img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image">
+        <p style="text-align: center;"></p>
+      </section>
+    </article>
+
     <!-- NEW IMAGE TEMPLATE
     <article class="6u 12u(small)">
       <header>
