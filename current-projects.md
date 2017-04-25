@@ -133,16 +133,7 @@ The story revolves around a city guard who is not the most observant, his job is
         <p style="text-align: center;"></p>
       </section>
     </article>
-    <article class="6u 12u(small)">
-      <header>
-        <h4 style="font-family: Oswald;">Zookeeper Livingstone (Ink)</h4>
-      </header>
-      <section>
-        <img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
-      </section>
-    </article>
-
+    
     <!-- NEW IMAGE TEMPLATE
     <article class="6u 12u(small)">
       <header>
