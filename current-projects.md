@@ -45,10 +45,10 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4 style="font-family: Oswald;">The Undertakers</a></h4>
+        <h4 style="font-family: Oswald;">The Undertakers (Colour)</h4>
       </header>
       <section>
-        <img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
+        <img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image">
         <p style="text-align: center;"></p>
       </section>
     </article>
