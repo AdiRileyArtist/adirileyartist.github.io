@@ -1,98 +1,191 @@
 ---
 layout: post-es
-title: Current Projects
+title: Proyectos en Curso
 ---
 
 <img src="/images/custom/UnderConstruction.jpg" class="fit image">
 
 <section>
-	<img src="/images/avatar.jpg" alt="avatar" style="width: 6em; margin-bottom: 20px; border-radius: 200px;" />
-	<blockquote>
-		<p>Keep up to date with my newest projects, books, illustrations, and custom work.</p>
-	</blockquote>
+  <img src="/images/avatar.jpg" alt="avatar" style="width: 6em; margin-bottom: 20px; border-radius: 200px;" />
+  <blockquote>
+    <p>Mantente al día de mis nuevos proyectos, libros, ilustraciones y trabajos personalizados.</p>
+  </blockquote>
 </section>
 
 <hr>
 
 <!-- PROJECT START -->
-<h1 style="font-family: Pacifico;">Project: Fantasy Detective Puzzle Book</h1>
+<h1 style="font-family: Pacifico;">Proyecto: Libro de Puzzles de Fantasía Detectivesca</h1>
 
-<center><img src="/images/OUaCLogo.jpg" class="image" width="500px"></center>
+<center><img src="/images/current/OUaCLogo.jpg" class="image" width="500px"></center>
 
-The story revolves around a city guard who is not the most observant, his job is to help the citizens of the city and solve crimes. Each double page will have a story page with text and an illustration incorporated within it. On the opposite side a highly-detailed illustration in which clues and puzzles will be hidden, your job will be to help the city guard find the hidden items and solve the puzzles to enable him to continue to the next page and eventually solve the crime.
+La historia gira alrededor del guardia de una ciudad que no es precisamente el más observador, su trabajo es ayudar a los ciudadanos de la ciudad a resolver crímenes. Cada página doble tendrá una página de historia con texto y una ilustración. En la página contigua, una ilustración detallada en la que estarán los puzzles junto a las pistas ocultas, tu trabajo será ayudar al guardia a encontrar los objetos perdidos y resolver los puzzles para permitirle continuar a la siguiente página y, al final, resolver el crimen.
 
-<h2 style="font-family: Pacifico; font-size: 20px;">Character Design Ideas</h2>
+<h2 style="font-family: Pacifico; font-size: 30px;">Fase 1 - Diseños Conceptuales de los Personajes</h2>
 
-<center><img src="/images/CharacterDesigns/MrStokerColour.jpg" class="image" width="500px"></center>
-
-<p>A colourised version of Mr Bramble Stoker the city's butcher and owner of Stoker's Steaks.</p>
-
-<center><img src="/images/CharacterDesigns/RockandTrollColour2.jpg" class="image" width="500px"></center>
-
-<p>A colourised version of Rock and Troll, experimenting with different styles.</p>
-
-<blockquote>
-<p>"Roock annnd Trooooll Maaaan!!!"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/BrainsWolfgang.jpg" class="image" width="500px"></center>
-
-<p>These two zombies are undertakers, I like the idea that the undead are burying the dead. I named Wolfgang after Mozart because his teeth are like piano keys, but the real dangerous one here is Baron Warburton Wyrm who is the underworld criminal boss that lives up Brains's nose.</p>
-
-<blockquote>
-<p>"He might be called Brains, but I'm the brains of this outfit!"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/MrStoker.jpg" class="image" width="500px"></center>
-
-<p>Mr Stoker named after Bram Stoker, in the final illustration I'll include his shop's sign, a heart with a wooden stake.</p>
-
-<center><img src="/images/CharacterDesigns/SirJohnCoyote.jpg" class="image" width="500px"></center>
-
-<p>Sir John Coyote, name after Don Quixote is a member of the Knights of the Pale Rider.</p>
-
-<center><img src="/images/CharacterDesigns/PrivateWadsworthMurphy.jpg" class="image" width="500px"></center>
-
-<p>Private Wadsworth is the story's protagonist along with his faithful sidekick Murphy, each page will be seen through his eyes. Each time you encounter someone in the story their portrait will appear on the page to give you a feel for who you are talking to.</p>
-
-<center><img src="/images/CharacterDesigns/RockandTroll.jpg" class="image" width="500px"></center>
-
-<p>Rock and Troll are a band that plays in one of the taverns in the city.</p>
-
-<blockquote>
-<p>"I think I've done too much head-banging, now I have a cracking headache!!"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/RottonFishRalphl.jpg" class="image" width="500px"></center>
-
-<p>Idea for the fishperson pirate captain, was thinking of possibly doing a parrot fish instead of a bird.</p>
-
-<blockquote>
- <p>"I hate these damn landlubbers!"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/FirstMateBubblehead.jpg" class="image" width="500px"></center>
-
-<p>I Might change the fish inside Bubblehead's goldfish bowl to a puffer fish, so each time the fish get scared they inflate themselves and push his face against the side of the bowl, sticking him with dozens of spikes.</p>
-
-<blockquote>
-<p>"GGGGuuuGGgggUUULLL!?!?!"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/ProfessorCrumples.jpg" class="image" width="500px"></center>
-
-<p>This character is a crazy scientist who has managed to lock himself in his own cage while testing it from the inside.</p>
-
-<blockquote>
-<p>"Hey dont judge me, can't a genius Professor have a bad day too?"</p>
-</blockquote>
-
-<center><img src="/images/CharacterDesigns/CityGuard.jpg" class="image" width="500px"></center>
-
-<p>A possible friend for Wadsworth and also another member of the City Guard.</p>
-
-
+<section>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/es/current/proffessor-grumples.html" style="font-family: Oswald;">Proffessor Grumples (Color)</a></h4>
+      </header>
+      <section>
+        <a href="/es/current/proffessor-grumples.html"><img src="/images/current/ProffGrumples800x800.jpg" class="fit image"></a>
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Proffessor Grumples (Tinta)</h4>
+      </header>
+      <section>
+        <img src="/images/current/ProffGrumplesInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/es/current/mr-bramble-stoker.html" style="font-family: Oswald;">Mr Bramble Stoker (Color)</a></h4>
+      </header>
+      <section>
+        <a href="/es/current/mr-bramble-stoker.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Mr Bramble Stoker (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/es/current/brains-wolfgang.html" style="font-family: Oswald;">The Undertakers (Color)</a></h4>
+      </header>
+      <section>
+        <a href="/es/current/brains-wolfgang.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">The Undertakers (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/es/current/rock-troll.html" style="font-family: Oswald;">Rock and Troll (Color)</a></h4>
+      </header>
+      <section>
+        <a href="/es/current/rock-troll.html"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+    <header>
+      <h4 style="font-family: Oswald;">Rock and Troll (Tinta + Lápiz)</h4>
+    </header>
+      <section>
+        <img src="/images/current/RockandTrollInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Captain of the City Guard (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/CaptainCityGuardInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Sir John Coyote (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/SirJohnCoyoteInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">The King (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/TheKingInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Rotton Fish Ralph (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/RottonFishRalphInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">First Mate Bubblehead (Tinta + Lápiz)</h4>
+      </header>
+      <section>
+        <img src="/images/current/FirstMateBubbleheadInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">City Guard (Tinta)</h4>
+      </header>
+      <section>
+        <img src="/images/current/CityGuardInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Zookeeper Livingstone (Tinta)</h4>
+      </header>
+      <section>
+        <img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <!-- NEW IMAGE TEMPLATE
+  <article class="6u 12u(small)">
+    <header>
+      <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">TITLE</a></h4>
+    </header>
+    <section>
+      <a href="/current/ITEM_TITLE.html"><img src="/images/current/IMAGE.jpg" class="fit image"></a>
+      <p style="text-align: center;">DESCRIPTION</p>
+    </section>
+  </article>
+  -->
+  <!-- NEW ROW TEMPLATE
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">TITLE</a></h4>
+      </header>
+      <section>
+        <a href="/current/ITEM_TITLE.html"><img src="/images/current/IMAGE.jpg" class="fit image"></a>
+        <p style="text-align: center;">DESCRIPTION</p>
+      </section>
+    </article>
+  </div>
+  -->
+</section>
 
 <!-- PROJECT END -->
 
-More to come...
+Más contenido pronto...

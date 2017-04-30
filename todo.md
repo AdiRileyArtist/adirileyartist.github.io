@@ -16,11 +16,12 @@ title: ToDo
 > 30/04/17
 
 - [x] Add IP address to analytics
-- [ ] Change colour of background behind left side image
-- [ ] Solve problem in current Projects
-- [ ] Add Spanish buttons
-- [ ] Add homepage button
-- [ ] Add Spanish pages
-- [ ] Update changes to spanish pages
+- [x] Change colour of background behind left side image
+- [x] Solve problem in current Projects
+- [x] Add Spanish buttons
+- [x] Add homepage button
+- [x] Add Spanish pages
+- [x] Update changes to spanish pages
 - [x] Check analytic script
-- [ ] Text style change?
+- [x] Resize 200x300px portfolio images to: 800x1200
+- [x] Fix portfolio sizes

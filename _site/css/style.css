@@ -60,13 +60,13 @@
 
 	@media (max-width: 450px) {
 		.icons a {
-			font-size: 3vw !important;
+			font-size: 5vw !important;
 		}
 	}
 
 	@media (max-width: 350px) {
 		.icons a {
-			font-size: 2vw !important;
+			font-size: 5vw !important;
 		}
 	}
 
@@ -954,7 +954,7 @@
 /* Header */
 
 	#header {
-		background-color: #fff;
+		background-color: #101010;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
@@ -970,25 +970,25 @@
 		width: 35%;
 	}
 
-		#header strong, #header b {
-			color: #fff;
-		}
+	#header strong, #header b {
+		color: #fff;
+	}
 
-		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #fff;
-		}
+	#header h2, #header h3, #header h4, #header h5, #header h6 {
+		color: #fff;
+	}
 
-		#header h1 {
-			color: #fff;
-			font-size: 1.35em;
-			line-height: 1.75em;
-			margin: 0;
-		}
+	#header h1 {
+		color: #fff;
+		font-size: 1.35em;
+		line-height: 1.75em;
+		margin: 0;
+	}
 
-		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 6.25em;
-		}
+	#header .image.avatar {
+		margin: 0 0 1em 0;
+		width: 6.25em;
+	}
 
 /* Footer */
 
@@ -1045,10 +1045,10 @@
 /* Main */
 
 	#main {
-		margin-left: 35%;
+		/* margin-left: 35%; */
+		width: calc(100% - 35%);
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
 	}
 
 		#main > section {

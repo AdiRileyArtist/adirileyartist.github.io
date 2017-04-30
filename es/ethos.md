@@ -3,7 +3,7 @@ layout: post-es
 title: Mi Filosofía
 ---
 
-<section>
+<section style="text-align: justify; text-justify: inter-word;">
 	<img src="/images/custom/Ethos.jpg" class="fit image">
 
 	<img src="/images/avatar.jpg" alt="avatar" style="width: 6em; margin-bottom: 20px; border-radius: 200px;" />

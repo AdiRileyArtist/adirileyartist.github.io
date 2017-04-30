@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div id="main" style="margin-top: 15px; padding-top: 15px;">
+  <section>
+    <div class="row icons">
+      <div class="1u 4u(small)"><a href="/es" class="icon fa fa-home fa-2x"></a></div>
+      <div class="1u 4u(small)"><a href="/"><img src="/images/flags/en.png" style="height: 28px;"></a></div>
+      <div class="1u 4u(small)"><a href="/es"><img src="/images/flags/es.png" style="height: 28px;"></a></div>
+      
+      <div class="1u 6u(small)">&nbsp;</div>
+      <div class="1u 6u(small)">&nbsp;</div>
+
+      {% if site.facebook_username %}
+      <div class="1u 1u(small)"><a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" class="icon fa fa-facebook fa-2x"></a></div>
+      {% endif %}
+      {% if site.instagram_username %}
+      <div class="1u 2u(small)"><a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank" class="icon fa fa-instagram fa-2x"></a></div>
+      {% endif %}
+      {% if site.tumblr_username %}
+      <div class="1u 2u(small)"><a href="https://{{ site.tumblr_username }}.tumblr.com" target="_blank" class="icon fa fa-tumblr fa-2x"></a></div>
+      {% endif %}
+      {% if site.pinterest_username %}
+      <div class="1u 2u(small)"><a href="https://pinterest.com/{{ site.pinterest_username }}" target="_blank" class="icon fa fa-pinterest fa-2x"></a></div>
+      {% endif %}
+      {% if site.etsy_username %}
+      <div class="1u 2u(small)"><a href="https://www.etsy.com/shop/{{ site.etsy_username }}" target="_blank" class="icon fa fa-shopping-cart fa-2x"></a></div>
+      {% endif %}
+      {% if site.patreon_username %}
+      <div class="1u 2u(small)"><a href="https://www.patreon.com/{{ site.patreon_username }}" target="_blank" class="icon fa fa-heart fa-2x"></a></div>
+      {% endif %}
+      {% if site.email %}
+      <div class="1u 1u(small)"><a href="mailto:{{ site.email }}" class="icon fa fa-envelope-o fa-2x"></a></div>
+      {% endif %}
+    </div>
+  </section>
+  <section>
+    <article>
+      <header class="major">
+        <h1 class="post-title" style="font-family: Pacifico; font-size: 30px;">{{ page.title }}</h1>
+        <p class="post-meta">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </article>
+  </section>
+</div>

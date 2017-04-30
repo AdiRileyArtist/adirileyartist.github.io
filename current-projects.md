@@ -17,7 +17,7 @@ title: Current Projects
 <!-- PROJECT START -->
 <h1 style="font-family: Pacifico;">Project: Fantasy Detective Puzzle Book</h1>
 
-<center><img src="/images/OUaCLogo.jpg" class="image" width="500px"></center>
+<center><img src="/images/current/OUaCLogo.jpg" class="image" width="500px"></center>
 
 The story revolves around a city guard who is not the most observant, his job is to help the citizens of the city and solve crimes. Each double page will have a story page with text and an illustration incorporated within it. On the opposite side a highly-detailed illustration in which clues and puzzles will be hidden, your job will be to help the city guard find the hidden items and solve the puzzles to enable him to continue to the next page and eventually solve the crime.
 
@@ -27,11 +27,28 @@ The story revolves around a city guard who is not the most observant, his job is
   <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/mr-bramble-stoker-fullwidth.html" style="font-family: Oswald;">Mr Bramble Stoker (Colour)</a></h4>
+        <h4><a href="/current/proffessor-grumples.html" style="font-family: Oswald;">Proffessor Grumples (Colour)</a></h4>
       </header>
       <section>
-        <a href="/current/mr-bramble-stoker-fullwidth.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
-        <p style="text-align: center;"></p>
+        <a href="/current/proffessor-grumples.html"><img src="/images/current/ProffGrumples800x800.jpg" class="fit image"></a>
+      </section>
+    </article>
+    <article class="6u 12u(small)">
+      <header>
+        <h4 style="font-family: Oswald;">Proffessor Grumples (Ink)</h4>
+      </header>
+      <section>
+        <img src="/images/current/ProffGrumplesInk800x800.jpg" class="fit image">
+      </section>
+    </article>
+  </div>
+  <div class="row">
+    <article class="6u 12u(small)">
+      <header>
+        <h4><a href="/current/mr-bramble-stoker.html" style="font-family: Oswald;">Mr Bramble Stoker (Colour)</a></h4>
+      </header>
+      <section>
+        <a href="/current/mr-bramble-stoker.html"><img src="/images/current/MrStoker800X800.jpg" class="fit image"></a>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -40,16 +57,16 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <img src="/images/current/MrStokerInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/brains-wolfgang-fullwidth.html" style="font-family: Oswald;">The Undertakers</a></h4>
+        <h4><a href="/current/brains-wolfgang.html" style="font-family: Oswald;">The Undertakers (Colour)</a></h4>
       </header>
       <section>
-        <a href="/current/brains-wolfgang-fullwidth"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;"></p>
+        <a href="/current/brains-wolfgang.html"><img src="/images/current/BrainsWolfgang800x800.jpg" class="fit image"></a>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -58,16 +75,16 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <img src="/images/current/BrainsWolfgangInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/rock-troll-fullwidth.html" style="font-family: Oswald;">Rock and Troll (Colour)</a></h4>
+        <h4><a href="/current/rock-troll.html" style="font-family: Oswald;">Rock and Troll (Colour)</a></h4>
       </header>
       <section>
-        <a href="/current/rock-troll-fullwidth.html"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
-        <p style="text-align: center;"></p>
+        <a href="/current/rock-troll.html"><img src="/images/current/RockandTroll800x800.jpg" class="fit image"></a>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -76,16 +93,16 @@ The story revolves around a city guard who is not the most observant, his job is
     </header>
       <section>
         <img src="/images/current/RockandTrollInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
         <h4 style="font-family: Oswald;">Captain of the City Guard (Ink + Pencil)</h4>
       </header>
       <section>
         <img src="/images/current/CaptainCityGuardInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -94,16 +111,16 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <img src="/images/current/SirJohnCoyoteInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
         <h4 style="font-family: Oswald;">The King (Ink + Pencil)</h4>
       </header>
       <section>
         <img src="/images/current/TheKingInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -112,16 +129,16 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <img src="/images/current/RottonFishRalphInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
         <h4 style="font-family: Oswald;">First Mate Bubblehead (Ink + Pencil)</h4>
       </header>
       <section>
         <img src="/images/current/FirstMateBubbleheadInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
     <article class="6u 12u(small)">
@@ -130,20 +147,32 @@ The story revolves around a city guard who is not the most observant, his job is
       </header>
       <section>
         <img src="/images/current/CityGuardInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
+  </div>
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
         <h4 style="font-family: Oswald;">Zookeeper Livingstone (Ink)</h4>
       </header>
       <section>
         <img src="/images/current/ZookeeperLivingstoneInk800x800.jpg" class="fit image">
-        <p style="text-align: center;"></p>
       </section>
     </article>
-
-    <!-- NEW IMAGE TEMPLATE
+  </div>
+  <!-- NEW IMAGE TEMPLATE
+  <article class="6u 12u(small)">
+    <header>
+      <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">TITLE</a></h4>
+    </header>
+    <section>
+      <a href="/current/ITEM_TITLE.html"><img src="/images/current/IMAGE.jpg" class="fit image"></a>
+      <p style="text-align: center;">DESCRIPTION</p>
+    </section>
+  </article>
+  -->
+  <!-- NEW ROW TEMPLATE
+  <div class="row">
     <article class="6u 12u(small)">
       <header>
         <h4><a href="/current/ITEM_TITLE.html" style="font-family: Oswald;">TITLE</a></h4>
@@ -153,8 +182,8 @@ The story revolves around a city guard who is not the most observant, his job is
         <p style="text-align: center;">DESCRIPTION</p>
       </section>
     </article>
-    -->
   </div>
+  -->
 </section>
 
 <!-- PROJECT END -->
