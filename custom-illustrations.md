@@ -7,7 +7,7 @@ title: Custom Illustrations
 
 <center><p>If you like my style of illustration, why not commission a personal one-off custom piece of original artwork! I can incorporate people’s hobbies, interests, or ideas.</p>
 
-<h1 style="font-family: baveuse;">"Your Ideas, My Creativity and Ink"</h1></center>
+<h1 style="font-family: Pacifco;">"Your Ideas, My Creativity and Ink"</h1></center>
 
 <hr>
 

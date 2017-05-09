@@ -15,13 +15,13 @@ title: Proyectos en Curso
 <hr>
 
 <!-- PROJECT START -->
-<h1 style="font-family: Pacifico;">Proyecto: Libro de Puzzles de Fantasía Detectivesca</h1>
+<h1 style="font-family: baveuse;">Proyecto: Libro de Puzzles de Fantasía Detectivesca</h1>
 
 <center><img src="/images/current/OUaCLogo.jpg" class="image" width="500px"></center>
 
 La historia gira alrededor del guardia de una ciudad que no es precisamente el más observador, su trabajo es ayudar a los ciudadanos de la ciudad a resolver crímenes. Cada página doble tendrá una página de historia con texto y una ilustración. En la página contigua, una ilustración detallada en la que estarán los puzzles junto a las pistas ocultas, tu trabajo será ayudar al guardia a encontrar los objetos perdidos y resolver los puzzles para permitirle continuar a la siguiente página y, al final, resolver el crimen.
 
-<h2 style="font-family: Pacifico; font-size: 30px;">Fase 1 - Diseños Conceptuales de los Personajes</h2>
+<h2 style="font-family: baveuse; font-size: 30px;">Fase 1 - Diseños Conceptuales de los Personajes</h2>
 
 <section>
   <div class="row">

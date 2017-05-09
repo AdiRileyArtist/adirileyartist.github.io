@@ -11,7 +11,7 @@ title: Ilustraciones Personalizadas
 
 <hr>
 
-<h2 style="font-family: Pacifico;">Ilustraciones Personalizadas Anteriores</h2>
+<h2 style="font-family: baveuse;">Ilustraciones Personalizadas Anteriores</h2>
 
 <div class="row">
 	<section class="4u 12u(small)">
