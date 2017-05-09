@@ -27,7 +27,7 @@ The story revolves around a city guard who is not the most observant, his job is
   <div class="row">
     <article class="6u 12u(small)">
       <header>
-        <h4><a href="/current/proffessor-grumples.html" style="font-family: Oswald;">Proffessor Grumples (Colour)</a></h4>
+        <h4><a href="/current/proffessor-grumples.html" style="font-family: Oswald;">Professor Grumples (Colour)</a></h4>
       </header>
       <section>
         <a href="/current/proffessor-grumples.html"><img src="/images/current/ProffGrumples800x800.jpg" class="fit image"></a>
@@ -35,7 +35,7 @@ The story revolves around a city guard who is not the most observant, his job is
     </article>
     <article class="6u 12u(small)">
       <header>
-        <h4 style="font-family: Oswald;">Proffessor Grumples (Ink)</h4>
+        <h4 style="font-family: Oswald;">Professor Grumples (Ink)</h4>
       </header>
       <section>
         <img src="/images/current/ProffGrumplesInk800x800.jpg" class="fit image">
