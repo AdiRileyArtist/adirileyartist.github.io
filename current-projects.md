@@ -15,13 +15,13 @@ title: Current Projects
 <hr>
 
 <!-- PROJECT START -->
-<h1 style="font-family: Pacifico;">Project: Fantasy Detective Puzzle Book</h1>
+<h1 style="font-family: baveuse;">Project: Fantasy Detective Puzzle Book</h1>
 
 <center><img src="/images/current/OUaCLogo.jpg" class="image" width="500px"></center>
 
 The story revolves around a city guard who is not the most observant, his job is to help the citizens of the city and solve crimes. Each double page will have a story page with text and an illustration incorporated within it. On the opposite side a highly-detailed illustration in which clues and puzzles will be hidden, your job will be to help the city guard find the hidden items and solve the puzzles to enable him to continue to the next page and eventually solve the crime.
 
-<h2 style="font-family: Pacifico; font-size: 30px;">Stage 1 - Character Concept Designs</h2>
+<h2 style="font-family: baveuse; font-size: 30px;">Stage 1 - Character Concept Designs</h2>
 
 <section>
   <div class="row">

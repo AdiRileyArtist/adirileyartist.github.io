@@ -7,11 +7,11 @@ title: Custom Illustrations
 
 <center><p>If you like my style of illustration, why not commission a personal one-off custom piece of original artwork! I can incorporate people’s hobbies, interests, or ideas.</p>
 
-<h1 style="font-family: Pacifico;">"Your Ideas, My Creativity and Ink"</h1></center>
+<h1 style="font-family: baveuse;">"Your Ideas, My Creativity and Ink"</h1></center>
 
 <hr>
 
-<h2 style="font-family: Pacifico;">Past Custom Illustrations</h2>
+<h2 style="font-family: baveuse;">Past Custom Illustrations</h2>
 
 <div class="row">
 	<section class="4u 12u(small)">
