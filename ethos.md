@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethos Behind the Art
+title: My Philosophy
 ---
 
 <section style="text-align: justify; text-justify: inter-word;">
